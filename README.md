@@ -1,2 +1,2 @@
 # Social-Media-Academic-Performance-Analysis
-Statistical analysis of the impact of social media usage on academic performance using Python and Excel.
+A statistical research project analyzing the impact of social media usage on students' academic performance and productivity using survey-based data and non-parametric statistical methods.
